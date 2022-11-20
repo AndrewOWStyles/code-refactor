@@ -120,7 +120,7 @@ p {
 }
 /* image placement for pictures under benefit headers */
 
-.search-engine-optimization {
+.content-style {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -128,51 +128,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* size, font and positioning for content text */
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content-style img {
     max-height: 200px;
 }
+/* content image height limit */
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.content-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* header size and margins */
 
 .footer {
     padding: 30px;
@@ -180,7 +147,9 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+/* footer alignment, text type and positioning  */
 
 .footer h4 {
     font-size: 20px;
 }
+/* footer font size */
