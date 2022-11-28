@@ -12,7 +12,7 @@ While this project cannot be installed a link to the deployed site and screensho
 
 - https://andrewowstyles.github.io/code-refactor/
 
-![Horiseon Example](assets/images/horiseon-example.jpg?raw=true)
+![Horiseon Example](assets/images/horiseon-example.jpg)
 
 ## Credits
 The project was achieved thanks to looking up information from various websites:
